@@ -1,4 +1,4 @@
-# Polymarket Clone
+# Web3 Prediction Market
 
 A decentralized prediction market platform built with Solidity, Next.js, and IPFS — inspired by Polymarket.
 
@@ -6,7 +6,7 @@ A decentralized prediction market platform built with Solidity, Next.js, and IPF
 
 ## 📟 Overview
 
-This project is a fully functional clone of Polymarket. It allows users to create and trade on event-based markets using cryptocurrency. Market data is stored on IPFS and all logic is handled via smart contracts deployed to the Polygon Mumbai testnet.
+This project is a decentralized prediction market platform. It allows users to create and trade on event-based markets using cryptocurrency. Market data is stored on IPFS and all logic is handled via smart contracts deployed to the Polygon Mumbai testnet.
 
 ---
 
@@ -27,8 +27,8 @@ This project is a fully functional clone of Polymarket. It allows users to creat
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/AmayTrip29/Polymarket-Clone.git
-   cd Polymarket-Clone
+   git clone https://github.com/AmayTrip29/Web3-Prediction-Market.git
+   cd Web3-Prediction-Market
    ```
 
 2. Install dependencies
